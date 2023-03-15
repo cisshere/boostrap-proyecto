@@ -1,3 +1,15 @@
 .navbar>.navbar-container{
     justify-content: flex-start;
 }
+
+.preventa {
+    background-image: url(img/fondo/fondo-preventa.jpg);
+}
+
+.preventa-contenedor {
+    background-color: rgba(41, 39, 39, 0.7);
+}
+
+.productos {
+    background-color: #f7d2f59e;
+}
