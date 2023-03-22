@@ -58,3 +58,27 @@ footer p {
     font-weight: bold;
 }
 
+.card-buy{
+    background-color: white;
+    border: none;
+}
+
+.btn-buy {
+    background-color: #ceaed5;
+    color: black;
+}
+
+/* -------------- iniciar sesion --------------- */
+
+.titulo-principal {
+    color: #ffdddd;
+}
+
+.btn-sesion {
+    background-color: #ceaed5;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
