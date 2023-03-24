@@ -82,3 +82,28 @@ footer p {
 a{
     text-decoration: none;
 }
+
+.facebook {
+    padding: 1px 4px;
+    background-color: #3b5998;
+    border-radius: 5px;
+}
+
+.facebook img {
+    width: 30px;
+}
+
+.facebook button {
+    color: white;
+    background-color: #3b5998;
+    padding: 0px 5px;
+}
+
+.back-inicio {
+    background-color: #ceaed5;
+    border-radius: 5px;
+}
+
+.back-inicio img {
+    width: 30px;
+}
