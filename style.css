@@ -116,6 +116,9 @@ a{
 .back-inicio {
     background-color: #ceaed5;
     border-radius: 5px;
+    cursor: pointer;
+    gap: 5px;
+    padding: 6px;
 }
 
 .back-inicio img {
