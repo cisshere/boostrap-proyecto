@@ -1,6 +1,20 @@
+body {
+    background-image: url(img/fondo/fondo-login.jpg);
+    background-repeat: repeat;
+}
+
+form {
+    background-color: rgba(41, 39, 39, 0.7);
+    box-shadow: 0 5px 30px black;
+}
+
 .navbar>.navbar-container{
     justify-content: space-between;
     background-color: #6f42c1;
+}
+
+a, label {
+    color: white;
 }
 
 .preventa {
